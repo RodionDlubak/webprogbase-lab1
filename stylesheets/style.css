@@ -5,3 +5,11 @@
     text-align: center;
     align-content: center;
 }
+.menu
+{
+    text-align: center;
+    background-color: aqua;
+    max-width: 35%;
+    margin: auto;
+    text-align: center;
+}
