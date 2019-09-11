@@ -1,4 +1,4 @@
-.main_page
+.page
 {
     width: 1000px;
     margin: auto;
@@ -12,4 +12,26 @@
     max-width: 35%;
     margin: auto;
     text-align: center;
+    padding: 3px;
+}
+.selected
+{
+    color: black
+}
+.text-block
+{
+    border-left-color: #1b809e;
+    margin-top: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid gold;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+table 
+{
+    width: 40%;
+    margin: auto;
+    border-collapse: collapse;
+    
 }
