@@ -32,6 +32,22 @@ table
 {
     width: 40%;
     margin: auto;
+    margin-top: 30px;
     border-collapse: collapse;
-    
+    font-size: 20px;
+}
+.games-table
+{
+    background-color: rgba(0,0,0,0);
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.descr-price
+{
+    text-align: left;
+    border-top: 0; 
+}
+tr
+{
+    border-top: 1px solid #ddd;
 }
